@@ -8,7 +8,7 @@ python3 -m pip install Pygame
 
 
 ```
-git clone https://github.com/Tr4nt420/SyrianShenanigans2D
+git clone [https://github.com/Tr4nter/Syrian-Shenanigans-2D](https://github.com/Tr4nter/Syrian-Shenanigans-2D.git)
 cd SyrianShenanigans2D
 python3 main.py
 ```
